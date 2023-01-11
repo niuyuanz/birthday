@@ -25,11 +25,11 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        <img src="1.jpg">
+        <img src="1.jpg"/>
         "亲爱的乖宝宝"，
-        <img src="2.jpg">
+        <img src="2.jpg"/>
         "当然蛋糕也是有的",
-        <img src="3.jpg">
+        <img src="3.jpg"/>
         "爱你”，
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
